@@ -1,1 +1,4 @@
 .DS_Store
+
+
+sudo chown -R my_user:staff .config
